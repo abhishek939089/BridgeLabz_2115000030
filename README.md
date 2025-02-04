@@ -8,7 +8,7 @@
 - Geometry & Measurements (Area of Circle, Perimeter of Rectangle, Volume of Cylinder).  
 - Conversions & Finance (Temperature Conversion, Distance Conversion, Simple Interest Calculation).  
 
-### Questions:  
+### Practice Problems:  
 1. Write a Java program to calculate the sum and average of three numbers.  
 2. Find the area and circumference of a circle given the radius.  
 3. Convert a given temperature from Celsius to Fahrenheit.  
@@ -24,7 +24,7 @@
 - Operators & Expressions – Practicing arithmetic operations, operator precedence, and type conversion.  
 - User Interaction & Input Handling – Implementing user input functionality.  
 
-### Questions:  
+### Practice Problems:  
 1. Write a program to declare variables of different data types and print their values.  
 2. Demonstrate the use of arithmetic, relational, and logical operators.  
 3. Take two numbers as input and swap them without using a third variable.  
@@ -39,7 +39,7 @@
 - Control Flow & Decision Making – Boolean expressions, logical operators, conditional statements (`if`, `else if`, `else`).  
 - Looping & Program Execution Control – Implementing loops (`for`, `while`), `break`, `continue`, `switch` statements.  
 
-### Questions:  
+### Practice Problems:  
 1. Write a program to check if a number is positive, negative, or zero.  
 2. Find the largest of three numbers using `if-else` statements.  
 3. Print all even numbers from 1 to 50 using a `for` loop.  
@@ -55,7 +55,7 @@
 - Multi-Dimensional Arrays & Matrix Handling – Performing matrix computations.  
 - System Handling & Error Management – Using `System.err` for error messages and `System.exit()` for program termination.  
 
-### Questions:  
+### Practice Problems:  
 1. Write a program to store and print 5 integers using an array.  
 2. Find the largest and smallest element in an array.  
 3. Compute the sum and average of elements in an array.  
@@ -71,7 +71,7 @@
 - Advanced Method Handling – Recursion, static methods, and Java’s standard library methods.  
 - Mathematical Computations – Using `java.lang.Math` for mathematical operations.  
 
-### Questions:  
+### Practice Problems:  
 1. Create a method to calculate the factorial of a number.  
 2. Write a method to check whether a given number is prime.  
 3. Implement a method to find the GCD (Greatest Common Divisor) of two numbers.  
@@ -86,7 +86,7 @@
 - String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
 - Function Implementation & Parameter Passing – Passing parameters and returning values.  
 
-### Questions:  
+### Practice Problems:  
 1. Write a program to concatenate two strings.  
 2. Find the length of a given string without using `.length()`.  
 3. Convert a given string to uppercase and lowercase.  
@@ -101,7 +101,7 @@
 - String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
 - Function Implementation & Parameter Passing – Passing parameters and returning values.  
 
-### Questions:  
+### Practice Problems:  
 1. Write a program to replace vowels in a string with `*`.  
 2. Count the number of words in a given sentence.  
 3. Reverse a given string without using built-in functions.  
@@ -116,7 +116,7 @@
 - Procedural vs Object-Oriented Programming (OOP).  
 - Class and Object.  
 
-### Questions:  
+### Practice Problems:  
 1. Explain the difference between procedural and OOP with examples.  
 2. Create a class `Car` with properties like `brand`, `model`, and `price`.  
 3. Implement a method inside a class to display object details.  
@@ -132,7 +132,7 @@
 - Instance vs. Class Variables.  
 - Access Modifiers.  
 
-### Questions:  
+### Practice Problems:  
 1. Create a class `Student` with a constructor to initialize name and roll number.  
 2. Demonstrate the difference between instance and class variables.  
 3. Implement getter and setter methods with different access modifiers.  
@@ -148,7 +148,7 @@
 - `final` Keyword.  
 - `instanceof` Operator. 
 
-### Questions:  
+### Practice Problems:  
 1. Demonstrate the use of a static method and static variable.  
 2. Create a class with a final variable and a final method.  
 3. Show how the `instanceof` operator works with inheritance.  
