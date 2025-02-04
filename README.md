@@ -1,7 +1,7 @@
 # BridgeLabz_2115000030
 # My Java Learning Journey
 
-## Day-1  
+## Day-1  🚀
 **Date:** 19-Jan-2025  
 ### Topics:  
 - Basic Arithmetic & Mathematical Computations (Addition, Average, Power Calculation).  
@@ -17,7 +17,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-2  
+## Day-2  🚀
 **Date:** 22-Jan-2025  
 ### Topics:  
 - Java Fundamentals & Data Handling – Understanding Java comments, basic data types, and variables.  
@@ -33,7 +33,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-3  
+## Day-3  🚀
 **Date:** 23-Jan-2025  
 ### Topics:  
 - Control Flow & Decision Making – Boolean expressions, logical operators, conditional statements (`if`, `else if`, `else`).  
@@ -48,7 +48,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-4  
+## Day-4  🚀
 **Date:** 25-Jan-2025  
 ### Topics:  
 - Array Operations & Manipulation – Creating, accessing, modifying arrays, and iterating through them.  
@@ -64,7 +64,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-5  
+## Day-5  🚀
 **Date:** 28-Jan-2025  
 ### Topics:  
 - Method Creation & Reusability – Defining and using user-defined methods.  
@@ -80,7 +80,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-6  
+## Day-6  🚀
 **Date:** 29-Jan-2025/1  
 ### Topics:  
 - String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
@@ -95,7 +95,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-7  
+## Day-7  🚀
 **Date:** 29-Jan-2025/2  
 ### Topics:  
 - String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
@@ -110,7 +110,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-8  
+## Day-8  🚀
 **Date:** 31-Jan-2025  
 ### Topics:  
 - Procedural vs Object-Oriented Programming (OOP).  
@@ -125,7 +125,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-9  
+## Day-9  🚀
 **Date:** 02-Feb-2025  
 ### Topics:  
 - Java Constructors.  
@@ -141,7 +141,7 @@
 
 --------------------------------------------------------------------------------
 
-## Day-10  
+## Day-10  🚀
 **Date:** 04-Feb-2025  
 ### Topics:  
 - `static` Keyword.  
