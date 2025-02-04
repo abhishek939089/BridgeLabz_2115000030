@@ -146,8 +146,7 @@
 ### Topics:  
 - `static` Keyword.  
 - `final` Keyword.  
-- `instanceof` Operator.  
-- **Level 1 Lab Practice.**  
+- `instanceof` Operator. 
 
 ### Questions:  
 1. Demonstrate the use of a static method and static variable.  
@@ -158,4 +157,3 @@
 
 --------------------------------------------------------------------------------
 
-This structured roadmap ensures consistent progress in Java programming. 🚀
