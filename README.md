@@ -3,71 +3,159 @@
 
 ## Day-1  
 **Date:** 19-Jan-2025  
-**Topics:**  
+### Topics:  
 - Basic Arithmetic & Mathematical Computations (Addition, Average, Power Calculation).  
 - Geometry & Measurements (Area of Circle, Perimeter of Rectangle, Volume of Cylinder).  
 - Conversions & Finance (Temperature Conversion, Distance Conversion, Simple Interest Calculation).  
 
+### Questions:  
+1. Write a Java program to calculate the sum and average of three numbers.  
+2. Find the area and circumference of a circle given the radius.  
+3. Convert a given temperature from Celsius to Fahrenheit.  
+4. Compute the simple interest given principal, rate, and time.  
+5. Convert a distance from kilometers to miles.  
+
+--------------------------------------------------------------------------------
+
 ## Day-2  
 **Date:** 22-Jan-2025  
-**Topics:**  
-- Java Fundamentals & Data Handling – Understanding Java comments, basic data types, and variables to store and manipulate data efficiently.  
-- Operators & Expressions – Practicing arithmetic operations, operator precedence, and type conversion to ensure accurate computations.  
-- User Interaction & Input Handling – Implementing user input functionality to build interactive programs.  
+### Topics:  
+- Java Fundamentals & Data Handling – Understanding Java comments, basic data types, and variables.  
+- Operators & Expressions – Practicing arithmetic operations, operator precedence, and type conversion.  
+- User Interaction & Input Handling – Implementing user input functionality.  
+
+### Questions:  
+1. Write a program to declare variables of different data types and print their values.  
+2. Demonstrate the use of arithmetic, relational, and logical operators.  
+3. Take two numbers as input and swap them without using a third variable.  
+4. Write a program to find the square of a given number using user input.  
+5. Accept a user's name and age as input and display a formatted message.  
+
+--------------------------------------------------------------------------------
 
 ## Day-3  
 **Date:** 23-Jan-2025  
-**Topics:**  
-- Control Flow & Decision Making – Understanding Java control flows, boolean data types, boolean expressions, logical operators, and conditional statements (if, else if, else).  
-- Looping & Program Execution Control – Implementing loops (for, while), using break and continue statements to control flow, and handling multiple conditions using the switch statement.  
+### Topics:  
+- Control Flow & Decision Making – Boolean expressions, logical operators, conditional statements (`if`, `else if`, `else`).  
+- Looping & Program Execution Control – Implementing loops (`for`, `while`), `break`, `continue`, `switch` statements.  
+
+### Questions:  
+1. Write a program to check if a number is positive, negative, or zero.  
+2. Find the largest of three numbers using `if-else` statements.  
+3. Print all even numbers from 1 to 50 using a `for` loop.  
+4. Use a `while` loop to print the multiplication table of a given number.  
+5. Implement a menu-driven program using a `switch` statement.  
+
+--------------------------------------------------------------------------------
 
 ## Day-4  
 **Date:** 25-Jan-2025  
-**Topics:**  
-- Array Operations & Manipulation – Creating, accessing, modifying arrays, and iterating through them using loops while utilizing the length property for dynamic operations.  
-- Multi-Dimensional Arrays & Matrix Handling – Working with multi-dimensional arrays, accessing elements, finding sizes, and performing matrix-related computations.  
-- System Handling & Error Management – Using Java's System.err for error messages and System.exit() to control program termination.  
+### Topics:  
+- Array Operations & Manipulation – Creating, accessing, modifying arrays, and iterating through them.  
+- Multi-Dimensional Arrays & Matrix Handling – Performing matrix computations.  
+- System Handling & Error Management – Using `System.err` for error messages and `System.exit()` for program termination.  
+
+### Questions:  
+1. Write a program to store and print 5 integers using an array.  
+2. Find the largest and smallest element in an array.  
+3. Compute the sum and average of elements in an array.  
+4. Perform matrix addition and multiplication.  
+5. Handle an invalid index access in an array using exception handling.  
+
+--------------------------------------------------------------------------------
 
 ## Day-5  
 **Date:** 28-Jan-2025  
-**Topics:**  
-- Method Creation & Reusability – Defining user-defined methods, reusing them multiple times, and making them dynamic by passing parameters.  
-- Advanced Method Handling – Implementing recursive methods for repetitive tasks, utilizing static methods, and leveraging Java’s standard library methods.  
-- Mathematical Computations – Using the java.lang.Math class for mathematical operations like exponentiation, rounding, and trigonometric calculations.  
+### Topics:  
+- Method Creation & Reusability – Defining and using user-defined methods.  
+- Advanced Method Handling – Recursion, static methods, and Java’s standard library methods.  
+- Mathematical Computations – Using `java.lang.Math` for mathematical operations.  
+
+### Questions:  
+1. Create a method to calculate the factorial of a number.  
+2. Write a method to check whether a given number is prime.  
+3. Implement a method to find the GCD (Greatest Common Divisor) of two numbers.  
+4. Use `Math.pow()` to calculate the power of a number.  
+5. Write a recursive function to print Fibonacci series up to `n` terms.  
+
+--------------------------------------------------------------------------------
 
 ## Day-6  
 **Date:** 29-Jan-2025/1  
-**Topics:**  
-- String Handling & Operations – Working with strings using common string functions like concatenation, substring extraction, length calculation, and case conversion.  
-- Function Implementation & Parameter Passing – Creating functions, passing parameters, and returning values to make methods more reusable and dynamic.  
+### Topics:  
+- String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
+- Function Implementation & Parameter Passing – Passing parameters and returning values.  
+
+### Questions:  
+1. Write a program to concatenate two strings.  
+2. Find the length of a given string without using `.length()`.  
+3. Convert a given string to uppercase and lowercase.  
+4. Extract a substring from a given string.  
+5. Write a function to check if a string is a palindrome.  
+
+--------------------------------------------------------------------------------
 
 ## Day-7  
 **Date:** 29-Jan-2025/2  
-**Topics:**  
-- String Handling & Operations – Working with strings using common string functions like concatenation, substring extraction, length calculation, and case conversion.  
-- Function Implementation & Parameter Passing – Creating functions, passing parameters, and returning values to make methods more reusable and dynamic.  
+### Topics:  
+- String Handling & Operations – Concatenation, substring extraction, length calculation, case conversion.  
+- Function Implementation & Parameter Passing – Passing parameters and returning values.  
+
+### Questions:  
+1. Write a program to replace vowels in a string with `*`.  
+2. Count the number of words in a given sentence.  
+3. Reverse a given string without using built-in functions.  
+4. Implement a function to remove duplicate characters from a string.  
+5. Check whether two strings are anagrams.  
+
+--------------------------------------------------------------------------------
 
 ## Day-8  
 **Date:** 31-Jan-2025  
-**Topics:**  
-- Procedural vs Object-Oriented Programming (OOP): Procedural programming focuses on functions and procedures to perform tasks, while OOP organizes code around objects and classes, encouraging reusability, inheritance, and encapsulation.  
-- Class and Object: A class defines the blueprint for creating objects, and an object is an instance of that class, used to represent real-world entities with properties and methods, encapsulating behavior and data.  
+### Topics:  
+- Procedural vs Object-Oriented Programming (OOP).  
+- Class and Object.  
+
+### Questions:  
+1. Explain the difference between procedural and OOP with examples.  
+2. Create a class `Car` with properties like `brand`, `model`, and `price`.  
+3. Implement a method inside a class to display object details.  
+4. Create multiple objects of a class and display their attributes.  
+5. Demonstrate how encapsulation works in Java.  
+
+--------------------------------------------------------------------------------
 
 ## Day-9  
 **Date:** 02-Feb-2025  
-**Topics:**  
-- Java Constructors: A constructor in Java is a special method used to initialize objects when they are created. It has the same name as the class and can be overloaded to allow different ways of initializing objects.  
-- Instance vs. Class Variables: Instance variables are tied to a specific object and are created when the object is instantiated. Class variables are shared among all instances of a class, defined using the static keyword, and are created when the class is loaded.  
-- Access Modifiers: Access modifiers in Java (e.g., public, private, protected) control the visibility and accessibility of classes, methods, and variables. They determine which other classes can access or modify a given member.  
+### Topics:  
+- Java Constructors.  
+- Instance vs. Class Variables.  
+- Access Modifiers.  
+
+### Questions:  
+1. Create a class `Student` with a constructor to initialize name and roll number.  
+2. Demonstrate the difference between instance and class variables.  
+3. Implement getter and setter methods with different access modifiers.  
+4. Write a program to overload a constructor in a class.  
+5. Show how static variables behave differently from instance variables.  
+
+--------------------------------------------------------------------------------
 
 ## Day-10  
 **Date:** 04-Feb-2025  
-**Topics:**  
-- `static` Keyword: The `static` keyword allows defining class-level members that belong to the class rather than instances, useful for shared variables and methods.  
-- `final` Keyword: The `final` keyword is used to define constants, prevent method overriding, and restrict class inheritance.  
-- `instanceof` Operator: The `instanceof` operator checks if an object is an instance of a specific class or subclass, useful for type checking and safe casting.  
-- **Level 1 Lab Practice:** Practical exercises covering the above topics to reinforce understanding through hands-on implementation.  
+### Topics:  
+- `static` Keyword.  
+- `final` Keyword.  
+- `instanceof` Operator.  
+- **Level 1 Lab Practice.**  
 
----
+### Questions:  
+1. Demonstrate the use of a static method and static variable.  
+2. Create a class with a final variable and a final method.  
+3. Show how the `instanceof` operator works with inheritance.  
+4. Write a program to implement method overriding and check it using `instanceof`.  
+5. Solve a lab exercise that combines class, objects, and static/final concepts.  
 
-This document tracks daily progress in Java programming with a structured learning approach. 🚀  
+--------------------------------------------------------------------------------
+
+This structured roadmap ensures consistent progress in Java programming. 🚀
