@@ -207,4 +207,36 @@
 
 --------------------------------------------------------------------------------
 
+## Day-12  🚀
+**Date:** 07-Feb-2025  
+### Topics:  
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance 
+
+### Practice Problems:
+#### Single Inheritance:
+1. Library Management with Books and Authors  
+2. Smart Home Devices
+
+#### Multilevel Inheritance:   
+1. Online Retail Order Management  
+2. Educational Course Hierarchy
+
+#### Hierarchical Inheritance:
+1. Bank Account Types
+2. School System with Different Roles
+
+#### Hybrid Inheritance:
+1. Restaurant Management System with Hybrid Inheritance
+2. Vehicle Management System with Hybrid Inheritance
+
+--------------------------------------------------------------------------------
+
 
