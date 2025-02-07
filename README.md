@@ -176,14 +176,6 @@
 
 #### Problem 2: Grocery Store Bill Generation Application  
 
-#### Comparison of the Two Scenarios:
-| Feature                       | School Results Application    | Grocery Store Bill Application |
-| ----------------------------- | ------------------------------ | ------------------------------ |
-| **Classes**                   | Student, Subject, GradeCalculator | Customer, Product, BillGenerator |
-| **Relationships**             | Aggregation                    | Composition                    |
-| **Primary Functionality**     | Calculate grade                | Generate total bill            |
-| **Key Entities**              | Students, Subjects, Grades     | Customers, Products, Bills     |
-
 ### Problems Solved:
 
 - **Object Modeling:** Worked on various relationships like Aggregation, Association, and Composition, and how objects communicate with each other.
