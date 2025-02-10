@@ -169,14 +169,14 @@
 
 ### Problems Solved:
 
-#### Problem 1: Library and Books (Aggregation)
-#### Problem 2: Bank and Account Holders (Association)
-#### Problem 3: Company and Departments (Composition)
-#### Problem 4: School and Students with Courses (Association and Aggregation)
-#### Problem 5: University with Faculties and Departments (Composition and Aggregation)
-#### Problem 6: Hospital, Doctors, and Patients (Association and Communication)
-#### Problem 7: E-commerce Platform with Orders, Customers, and Products
-#### Problem 8: University Management System
+1. Library and Books (Aggregation)
+2. Bank and Account Holders (Association)
+3. Company and Departments (Composition)
+4. School and Students with Courses (Association and Aggregation)
+5. University with Faculties and Departments (Composition and Aggregation)
+6. Hospital, Doctors, and Patients (Association and Communication)
+7. E-commerce Platform with Orders, Customers, and Products
+8. University Management System
 
 --------------------------------------------------------------------------------
 
