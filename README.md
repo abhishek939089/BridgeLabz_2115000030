@@ -225,9 +225,24 @@
 1. Bank Account Types
 2. School System with Different Roles
 
-#### Hybrid Inheritance:
-1. Restaurant Management System with Hybrid Inheritance
-2. Vehicle Management System with Hybrid Inheritance
+-------------------------------------------------------------------------------- 
+
+## Day-13  🚀
+**Date:** 10-Feb-2025  
+### Topics:  
+- `Encapsulation`  
+- `Interface`  
+- `Abstract Classes`
+- `Polymorphism` 
+
+### Practice Problems:  
+1. E-Commerce Platform
+2. Vehicle Rental System
+3. Banking System
+4. Library Management System
+5. Online Food Delivery System
+6. Hospital Patient Management
+7. Ride-Hailing Application  
 
 --------------------------------------------------------------------------------
 
