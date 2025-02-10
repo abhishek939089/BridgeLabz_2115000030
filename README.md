@@ -167,31 +167,15 @@
 - Sequence Diagrams.  
 - Objects Relationships (Aggregation, Association, Composition).  
 
-### Practice Problems:
-
-#### Problem 1: School Results Application  
-- **Class Diagram:** Model a school results application using classes like `Student`, `Subject`, and `GradeCalculator`.
-- **Object Diagram:** Show the current state of a `Student` object and their associated `Subject` objects.
-- **Sequence Diagram:** Illustrate the process of grade calculation when a student requests their grade.
-
-#### Problem 2: Grocery Store Bill Generation Application  
-
 ### Problems Solved:
 
 #### Problem 1: Library and Books (Aggregation)
-
 #### Problem 2: Bank and Account Holders (Association)
-
 #### Problem 3: Company and Departments (Composition)
-
 #### Problem 4: School and Students with Courses (Association and Aggregation)
-
 #### Problem 5: University with Faculties and Departments (Composition and Aggregation)
-
 #### Problem 6: Hospital, Doctors, and Patients (Association and Communication)
-
 #### Problem 7: E-commerce Platform with Orders, Customers, and Products
-
 #### Problem 8: University Management System
 
 --------------------------------------------------------------------------------
