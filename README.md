@@ -178,9 +178,6 @@
 
 ### Problems Solved:
 
-- **Object Modeling:** Worked on various relationships like Aggregation, Association, and Composition, and how objects communicate with each other.
-
-### Assisted Problems:
 #### Problem 1: Library and Books (Aggregation)
 
 #### Problem 2: Bank and Account Holders (Association)
