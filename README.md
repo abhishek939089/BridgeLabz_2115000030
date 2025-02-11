@@ -227,4 +227,24 @@
 
 --------------------------------------------------------------------------------
 
+## Day-14  🚀
+**Date:** 11-Feb-2025  
+### Topics:
+- `Data Strcuture`
+- `LinkedList`  
+
+### Practice Problems:
+
+Singly Linked List - Student Record Management
+Doubly Linked List - Movie Management System
+Circular Linked List - Task Scheduler
+Singly Linked List - Inventory Management System
+Doubly Linked List - Library Management System
+Circular Linked List - Round Robin Scheduling Algorithm
+Singly Linked List - Social Media Friend Connections
+Doubly Linked List - Undo/Redo Functionality for Text Editor
+Circular Linked List - Online Ticket Reservation System
+
+--------------------------------------------------------------------------------
+
 
