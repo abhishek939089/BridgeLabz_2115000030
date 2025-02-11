@@ -235,15 +235,15 @@
 
 ### Practice Problems:
 
-Singly Linked List - Student Record Management
-Doubly Linked List - Movie Management System
-Circular Linked List - Task Scheduler
-Singly Linked List - Inventory Management System
-Doubly Linked List - Library Management System
-Circular Linked List - Round Robin Scheduling Algorithm
-Singly Linked List - Social Media Friend Connections
-Doubly Linked List - Undo/Redo Functionality for Text Editor
-Circular Linked List - Online Ticket Reservation System
+1. Singly Linked List - Student Record Management
+2. Doubly Linked List - Movie Management System
+3. Circular Linked List - Task Scheduler
+4. Singly Linked List - Inventory Management System
+5. Doubly Linked List - Library Management System
+6. Circular Linked List - Round Robin Scheduling Algorithm
+7. Singly Linked List - Social Media Friend Connections
+8. Doubly Linked List - Undo/Redo Functionality for Text Editor
+9. Circular Linked List - Online Ticket Reservation System
 
 --------------------------------------------------------------------------------
 
