@@ -15,10 +15,43 @@ class Student {
 class StudentRecord {
     Student head;
 
-    void addStudent(int rollNumber, String name, int age, String grade) {
+    void addStudentAtBeginning(int rollNumber, String name, int age, String grade) {
         Student newStudent = new Student(rollNumber, name, age, grade);
         newStudent.next = head;
         head = newStudent;
+    }
+
+    void addStudentAtEnd(int rollNumber, String name, int age, String grade) {
+        Student newStudent = new Student(rollNumber, name, age, grade);
+        if (head == null) {
+            head = newStudent;
+            return;
+        }
+        Student temp = head;
+        while (temp.next != null) {
+            temp = temp.next;
+        }
+        temp.next = newStudent;
+    }
+
+    void addStudentAtPosition(int rollNumber, String name, int age, String grade, int position) {
+        if (position <= 1) {
+            addStudentAtBeginning(rollNumber, name, age, grade);
+            return;
+        }
+        Student newStudent = new Student(rollNumber, name, age, grade);
+        Student temp = head;
+        int count = 1;
+        while (temp != null && count < position - 1) {
+            temp = temp.next;
+            count++;
+        }
+        if (temp == null || temp.next == null) {
+            addStudentAtEnd(rollNumber, name, age, grade);
+        } else {
+            newStudent.next = temp.next;
+            temp.next = newStudent;
+        }
     }
 
     void deleteStudent(int rollNumber) {
@@ -28,14 +61,21 @@ class StudentRecord {
             return;
         }
         Student temp = head;
-        while (temp.next != null && temp.next.rollNumber != rollNumber) temp = temp.next;
-        if (temp.next != null) temp.next = temp.next.next;
+        while (temp.next != null && temp.next.rollNumber != rollNumber) {
+            temp = temp.next;
+        }
+        if (temp.next != null) {
+            temp.next = temp.next.next;
+        }
     }
 
     Student searchStudent(int rollNumber) {
         Student temp = head;
-        while (temp != null && temp.rollNumber != rollNumber) temp = temp.next;
-        return temp;
+        while (temp != null) {
+            if (temp.rollNumber == rollNumber) return temp;
+            temp = temp.next;
+        }
+        return null;
     }
 
     void updateGrade(int rollNumber, String newGrade) {
@@ -53,8 +93,9 @@ class StudentRecord {
 
     public static void main(String[] args) {
         StudentRecord record = new StudentRecord();
-        record.addStudent(101, "Alice", 20, "A");
-        record.addStudent(102, "Bob", 22, "B");
+        record.addStudentAtBeginning(101, "Alice", 20, "A");
+        record.addStudentAtEnd(102, "Bob", 22, "B");
+        record.addStudentAtPosition(103, "Charlie", 21, "C", 2);
         record.displayStudents();
         record.updateGrade(101, "A+");
         record.deleteStudent(102);

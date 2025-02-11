@@ -1,11 +1,10 @@
 class Ticket {
     int ticketId;
     String customerName, movieName;
-    int seatNumber;
-    String bookingTime;
+    int seatNumber, bookingTime;
     Ticket next;
 
-    Ticket(int ticketId, String customerName, String movieName, int seatNumber, String bookingTime) {
+    Ticket(int ticketId, String customerName, String movieName, int seatNumber, int bookingTime) {
         this.ticketId = ticketId;
         this.customerName = customerName;
         this.movieName = movieName;
@@ -18,7 +17,7 @@ class Ticket {
 class TicketReservation {
     Ticket head;
 
-    void addTicket(int ticketId, String customerName, String movieName, int seatNumber, String bookingTime) {
+    void addTicket(int ticketId, String customerName, String movieName, int seatNumber, int bookingTime) {
         Ticket newTicket = new Ticket(ticketId, customerName, movieName, seatNumber, bookingTime);
         if (head == null) {
             head = newTicket;
@@ -30,6 +29,24 @@ class TicketReservation {
         newTicket.next = head;
     }
 
+    void removeTicket(int ticketId) {
+        if (head == null) return;
+        if (head.ticketId == ticketId && head.next == head) {
+            head = null;
+            return;
+        }
+        Ticket temp = head, prev = null;
+        do {
+            if (temp.ticketId == ticketId) {
+                if (prev != null) prev.next = temp.next;
+                else head = temp.next;
+                return;
+            }
+            prev = temp;
+            temp = temp.next;
+        } while (temp != head);
+    }
+
     void displayTickets() {
         if (head == null) return;
         Ticket temp = head;
@@ -39,10 +56,25 @@ class TicketReservation {
         } while (temp != head);
     }
 
+    int countTickets() {
+        if (head == null) return 0;
+        int count = 0;
+        Ticket temp = head;
+        do {
+            count++;
+            temp = temp.next;
+        } while (temp != head);
+        return count;
+    }
+
     public static void main(String[] args) {
         TicketReservation system = new TicketReservation();
-        system.addTicket(1, "Alice", "Inception", 5, "10:00 AM");
-        system.addTicket(2, "Bob", "Interstellar", 8, "2:00 PM");
+        system.addTicket(1, "Alice", "Inception", 5, 1000);
+        system.addTicket(2, "Bob", "Interstellar", 8, 1400);
         system.displayTickets();
+        System.out.println("Total Tickets: " + system.countTickets());
+        system.removeTicket(1);
+        system.displayTickets();
+        System.out.println("Total Tickets: " + system.countTickets());
     }
 }

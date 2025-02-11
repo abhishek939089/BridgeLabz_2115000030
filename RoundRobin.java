@@ -25,6 +25,45 @@ class RoundRobin {
         newProcess.next = head;
     }
 
+    void removeProcess(int id) {
+        if (head == null) return;
+        if (head.id == id && head.next == head) {
+            head = null;
+            return;
+        }
+        Process temp = head, prev = null;
+        do {
+            if (temp.id == id) {
+                if (prev != null) prev.next = temp.next;
+                else {
+                    Process last = head;
+                    while (last.next != head) last = last.next;
+                    head = head.next;
+                    last.next = head;
+                }
+                return;
+            }
+            prev = temp;
+            temp = temp.next;
+        } while (temp != head);
+    }
+
+    void simulateRoundRobin(int timeQuantum) {
+        if (head == null) return;
+        Process temp = head;
+        while (true) {
+            if (temp.burstTime > timeQuantum) {
+                temp.burstTime -= timeQuantum;
+                System.out.println("Process " + temp.id + " executed for " + timeQuantum + " units.");
+            } else {
+                System.out.println("Process " + temp.id + " executed for " + temp.burstTime + " units and completed.");
+                removeProcess(temp.id);
+            }
+            temp = temp.next;
+            if (head == null) break;
+        }
+    }
+
     void displayProcesses() {
         if (head == null) return;
         Process temp = head;
@@ -38,6 +77,8 @@ class RoundRobin {
         RoundRobin scheduler = new RoundRobin();
         scheduler.addProcess(1, 5, 2);
         scheduler.addProcess(2, 3, 1);
+        scheduler.addProcess(3, 8, 3);
         scheduler.displayProcesses();
+        scheduler.simulateRoundRobin(2);
     }
 }
