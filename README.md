@@ -232,9 +232,9 @@
 ### Topics:
 - `Data Strcuture`
 - `LinkedList`
-- Singly Linked List: A linear data structure where each node points to the next node, and the last node points to NULL.
-- Doubly Linked List: A linked list where each node has pointers to both its previous and next nodes, allowing bidirectional traversal.
-- Circular Linked List: A linked list where the last node points back to the first node, forming a circular structure.  
+- `Singly Linked List`: A linear data structure where each node points to the next node, and the last node points to NULL.
+- `Doubly Linked List`: A linked list where each node has pointers to both its previous and next nodes, allowing bidirectional traversal.
+- `Circular Linked List`: A linked list where the last node points back to the first node, forming a circular structure.  
 
 ### Practice Problems:
 
