@@ -256,7 +256,7 @@
 - `Stack`  
 - `Queue`  
 - `HashMap`
-- `HashSet` 
+- `Hash Functions` 
 
 ### Practice Problems:  
 1. Implement a Queue Using Stacks
