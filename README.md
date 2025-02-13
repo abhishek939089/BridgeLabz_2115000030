@@ -250,4 +250,26 @@
 
 --------------------------------------------------------------------------------
 
+## Day-15  🚀
+**Date:** 13-Feb-2025  
+### Topics:  
+- `Stack`  
+- `Queue`  
+- `HashMap`
+- `HashSet` 
+
+### Practice Problems:  
+1. Implement a Queue Using Stacks
+2. Sort a Stack Using Recursion
+3. Stock Span Problem
+4. Sliding Window Maximum
+5. Circular Tour Problem
+6. Find All Subarrays with Zero Sum
+7. Check for a Pair with Given Sum in an Array
+8. Longest Consecutive Sequence
+9. Implement a Custom Hash Map
+10. Two Sum Problem  
+
+--------------------------------------------------------------------------------
+
 
