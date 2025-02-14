@@ -272,4 +272,24 @@
 
 --------------------------------------------------------------------------------
 
+## Day-16  🚀
+**Date:** 14-Feb-2025  
+### Topics:  
+- Sorting Algorithms  
+- `Quick Sort`  
+- `Merge Sort`
+- `Insertion Sort`
+- `Selection Sort`
+- `Heap Sort`
+- `Bubble Sort` 
 
+### Practice Problems:  
+1. Bubble Sort - Sort Student Marks
+2. Insertion Sort - Sort Employee IDs
+3. Merge Sort - Sort an Array of Book Prices
+4. Quick Sort - Sort Product Prices
+5. Selection Sort - Sort Exam Scores
+6. Heap Sort - Sort Job Applicants by Salary
+7. Counting Sort - Sort Student Ages
+
+--------------------------------------------------------------------------------
