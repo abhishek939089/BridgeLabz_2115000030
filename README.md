@@ -275,7 +275,7 @@
 ## Day-16  🚀
 **Date:** 14-Feb-2025  
 ### Topics:  
-- Sorting Algorithms  
+## Sorting Algorithms  
 - `Quick Sort`  
 - `Merge Sort`
 - `Insertion Sort`
