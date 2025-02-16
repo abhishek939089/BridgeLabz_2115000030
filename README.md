@@ -293,3 +293,22 @@
 7. Counting Sort - Sort Student Ages
 
 --------------------------------------------------------------------------------
+
+## Day-17  🚀
+**Date:** 16-Feb-2025  
+### Topics:  
+- `StringBuilder`
+- `StringBuffer`
+- `FileReader`
+- `InputStreamReader`
+- `Linear Search` 
+- `Binary Search`
+
+### Practice Problems:  
+1. Search for the First Negative Number in an Array
+2. Search for a Specific Word in a List of Sentences
+3. Find the Peak Element in an Array
+4. Search for a Target Value in a 2D Sorted Matrix
+5. Find the First Missing Positive Integer using Linear Search & Search for a Target in a Sorted Array using Binary Search
+
+--------------------------------------------------------------------------------
