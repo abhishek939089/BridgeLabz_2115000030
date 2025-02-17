@@ -312,3 +312,18 @@
 5. Find the First Missing Positive Integer using Linear Search & Search for a Target in a Sorted Array using Binary Search
 
 --------------------------------------------------------------------------------
+
+## Day-18  🚀
+**Date:** 17-Jan-2025  
+### Topics:  
+- `Time and space Complexity Optimization`
+- `Runtime Analysis & Big-O Notation` 
+
+### Practice Problems:  
+1. Sorting Large Data Efficiently
+2. String Concatenation Performance
+3. Large File Reading Efficiency
+4. Recursive vs Iterative Fibonacci Computation
+5. omparing Different Data Structures for Searching
+
+--------------------------------------------------------------------------------
