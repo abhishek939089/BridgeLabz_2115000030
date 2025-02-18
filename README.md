@@ -327,3 +327,24 @@
 5. omparing Different Data Structures for Searching
 
 --------------------------------------------------------------------------------
+
+## Day-19  🚀
+**Date:** 18-Feb-2025  
+### Topics:  
+#### Java Generics
+
+- `Introduction to Generics`
+- `Type Parameters`
+- `Generic Classes`
+- `Generic Methods`
+- `Bounded Type Parameters`
+- `Wildcards` 
+
+### Practice Problems:  
+1. Smart Warehouse Management System
+2. Dynamic Online Marketplace
+3. Multi-Level University Course Management System
+4. Personalized Meal Plan Generator
+5. AI-Driven Resume Screening System 
+
+--------------------------------------------------------------------------------
