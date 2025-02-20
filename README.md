@@ -348,3 +348,36 @@
 5. AI-Driven Resume Screening System 
 
 --------------------------------------------------------------------------------
+
+## Day-20  🚀
+**Date:** 19-Feb-2025  
+### Topics:  
+#### Collections
+- Overview of Collections Framework
+- What is the Collections Framework?
+- Hierarchy of Collections Framework
+
+### Practice Problems:  
+1. Reverse a List
+2. Find Frequency of Elements
+3. Remove Duplicates While Preserving Order
+4. Check if Two Sets Are Equal
+5. Union and Intersection of Two Sets
+
+--------------------------------------------------------------------------------
+
+## Day-21  🚀
+**Date:** 20-Feb-2025  
+### Topics:  
+#### Java Streams
+- Java I/O Streams
+- Types of Streams
+
+### Practice Problems:  
+1. File Handling - Read and Write a Text File
+2. Buffered Streams - Efficient File Copy
+3. Read User Input from Console
+4. Serialization - Save and Retrieve an Object
+5. ByteArray Stream - Convert Image to ByteArray
+
+--------------------------------------------------------------------------------
