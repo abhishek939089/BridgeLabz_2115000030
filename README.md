@@ -381,3 +381,25 @@
 5. ByteArray Stream - Convert Image to ByteArray
 
 --------------------------------------------------------------------------------
+
+## Day-22  🚀
+**Date:** 21-Feb-2025  
+### Topics:  
+#### Exceptions 
+- Types of Exceptions
+- Handling Exceptions 
+- Creating Custom Exceptions
+- Extending Exception Class
+- Defining Constructors 
+
+### Practice Problems:  
+1. Checked Exception (Compile-time Exception)
+2. Unchecked Exception (Runtime Exception)
+3. Custom Exception (User-defined Exception)
+4. Multiple Catch Blocks
+5. try-with-resources (Auto-closing Resources)
+6. throw vs. throws (Exception Propagation)
+7. finally Block Execution
+8. Bank Transaction System (Checked + Custom Exception)
+
+--------------------------------------------------------------------------------
