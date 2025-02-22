@@ -403,3 +403,28 @@
 8. Bank Transaction System (Checked + Custom Exception)
 
 --------------------------------------------------------------------------------
+
+## Day-23 🚀
+**Date:** 22-Feb-2025  
+### Topics:  
+#### Regex & Junit
+- `Regex`
+- `MetaCharacter`
+- `Quantifier`
+- `Introduction to JUnit Framework`
+- `JUnit Annotations`
+- `Writing Test Cases`
+- `Structure of a Test Class`
+- `Assertions`
+ 
+### Practice Problems:  
+1. Email Validation (Detailed)
+2. Password Strength Validation
+3. Extract Dates from a String
+4. Testing String Utility Methods
+5. Testing List Operations
+6. Testing Exception Handling
+7. Testing @BeforeEach and @AfterEach Annotations
+8. Testing Parameterized Tests
+
+--------------------------------------------------------------------------------
