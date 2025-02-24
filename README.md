@@ -428,3 +428,17 @@
 8. Testing Parameterized Tests
 
 --------------------------------------------------------------------------------
+
+## Day-24  🚀
+**Date:** 24-Feb-2025  
+### Topics:  
+- `Annotations, Reflection`  
+
+### Practice Problems:  
+1. Custom Logging Proxy Using Reflection
+2. Dependency Injection using Reflection
+3. Method Execution Timing
+4. Create a Custom Object Mapper
+5. Generate a JSON Representation
+
+--------------------------------------------------------------------------------
