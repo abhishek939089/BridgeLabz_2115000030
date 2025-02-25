@@ -442,3 +442,23 @@
 5. Generate a JSON Representation
 
 --------------------------------------------------------------------------------
+
+## Day-25  🚀
+**Date:** 25-Feb-2025  
+### Topics:  
+#### CSV Data Handling
+- `Introduction to CSV`
+- `Reading CSV Files`
+- `Writing CSV Files`
+- `Parsing CSV Data`
+- `Data Validation`
+
+
+### Practice Problems:  
+1.  Read and Count Rows in a CSV File
+2.  Filter Records from CSV
+3.  Search for a Record in CSV
+4.  Sort CSV Records by a Column
+5.  Validate CSV Data Before Processing
+
+--------------------------------------------------------------------------------
