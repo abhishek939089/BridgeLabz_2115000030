@@ -462,3 +462,26 @@
 5.  Validate CSV Data Before Processing
 
 --------------------------------------------------------------------------------
+
+## Day-26  🚀
+**Date:** 26-Feb-2025  
+### Topics:  
+#### JSON Data
+- `Introduction to JSON`
+- `Reading JSON Data`
+- `Writing JSON Data`
+- `Parsing JSON Data`
+- `JSON Schema Validation` 
+
+### Practice Problems:  
+1️⃣  Read a JSON file and print all keys and values.
+2️⃣ Convert a list of Java objects into a JSON array.
+3️⃣ Filter JSON data: Print only users older than 25 years.
+4️⃣ Validate an email field using JSON Schema.
+5️⃣ Merge two JSON files into a single JSON object.
+6️⃣ Convert JSON to XML format.
+7️⃣ Convert CSV data into JSON.
+8️⃣ Generate a JSON report from database records.
+9️⃣ IPL and Censor Analyzer.
+
+--------------------------------------------------------------------------------
